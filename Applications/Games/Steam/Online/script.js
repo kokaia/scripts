@@ -8,7 +8,7 @@ var installerImplementation = {
             .applicationHomepage("http://www.steampowered.com")
             .author("Quentin PÂRIS")
             .url("http://media.steampowered.com/client/installer/SteamSetup.exe")
-            .checksum("e930dbdb3bc638f772a8fcd92dbcd0919c924318")
+            .checksum("4b1b85ec2499a4ce07c89609b256923a4fc479e5")
             .category("Games")
             .executable("Steam.exe", ["-no-cef-sandbox"])
             .go();
